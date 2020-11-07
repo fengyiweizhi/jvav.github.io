@@ -1,0 +1,106 @@
+/**
+ * 技术信息：资源信息
+ * 请参考: https://bazhan.me/faq
+*/
+{
+    "success": [
+        {
+            "url": "https://jvav.top/",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "https://jvav.top/static/images/ad-by-toliet.png",
+                    "path": "images/ad-by-toliet.png",
+                    "children": []
+                },
+                {
+                    "url": "https://jvav.top/ga/images/jv0_search_btn.gif",
+                    "path": "images/jv0_search_btn.gif",
+                    "children": []
+                },
+                {
+                    "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+                    "path": "js/adsbygoogle.js",
+                    "children": []
+                },
+                {
+                    "url": "https://buttons.github.io/buttons.js",
+                    "path": "js/buttons.js",
+                    "children": []
+                },
+                {
+                    "url": "https://jvav.top/ga/js/console.js",
+                    "path": "js/console.js",
+                    "children": []
+                },
+                {
+                    "url": "https://java.com/feo-cdn/z/Y/Ren-UTF-8~zYhWKCjIx0J6H23_Rjq4MtNoUQHhxnspNhq_MRQ37f8.js",
+                    "path": "js/Ren-UTF-8~zYhWKCjIx0J6H23_Rjq4MtNoUQHhxnspNhq_MRQ37f8.js",
+                    "children": []
+                },
+                {
+                    "url": "https://java.com/feo-cdn/r/R/Ren-UTF-8~rRXd-CEfGscvf9oWKv7YANK_oNn3sENodSF-j4tGBQc.js",
+                    "path": "js/Ren-UTF-8~rRXd-CEfGscvf9oWKv7YANK_oNn3sENodSF-j4tGBQc.js",
+                    "children": []
+                },
+                {
+                    "url": "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+                    "path": "js/rocket-loader.min.js",
+                    "children": []
+                },
+                {
+                    "url": "https://jvav.top/static/css/ren-utf-8~wk056hn61c7rdi1gm9drypo1eimagbu38a7oarp8nqm.css",
+                    "path": "css/ren-utf-8~wk056hn61c7rdi1gm9drypo1eimagbu38a7oarp8nqm.css",
+                    "children": [
+                        {
+                            "url": "https://jvav.top/static/images/piwv7p5ps.jpg",
+                            "path": "images/piwv7p5ps.jpg",
+                            "children": []
+                        },
+                        {
+                            "url": "https://jvav.top/static/images/uchoqiqya.png",
+                            "path": "images/uchoqiqya.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://jvav.top/static/images/pajae39dq.jpg",
+                            "path": "images/pajae39dq.jpg",
+                            "children": []
+                        },
+                        {
+                            "url": "https://jvav.top/static/images/zhxeakzjo.jpg",
+                            "path": "images/zhxeakzjo.jpg",
+                            "children": []
+                        },
+                        {
+                            "url": "https://jvav.top/static/images/su1h87xri.jpg",
+                            "path": "images/su1h87xri.jpg",
+                            "children": []
+                        },
+                        {
+                            "url": "https://jvav.top/static/images/odhv2lwii.jpg",
+                            "path": "images/odhv2lwii.jpg",
+                            "children": []
+                        },
+                        {
+                            "url": "https://jvav.top/static/images/edq1iuziw.jpg",
+                            "path": "images/edq1iuziw.jpg",
+                            "children": []
+                        },
+                        {
+                            "url": "https://jvav.top/static/images/nvdvlnjgk.jpg",
+                            "path": "images/nvdvlnjgk.jpg",
+                            "children": []
+                        },
+                        {
+                            "url": "https://jvav.top/static/images/lh3cjmfqq.png",
+                            "path": "images/lh3cjmfqq.png",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "failures": []
+}
